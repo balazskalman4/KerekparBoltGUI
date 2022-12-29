@@ -1,1 +1,1 @@
-# KerekparBoltGUI-JAVA-SE-GUI-
+# KerekparBoltGUI
